@@ -1,5 +1,5 @@
 package com.itheima.a;
-//zzx
+//zzxycy
 public interface Dao {
 	public void save();
 }
